@@ -50,7 +50,9 @@ I'm a creative and detail-oriented front-end developer from Egypt, passionate ab
 | Project | Description |
 |--------|-------------|
 | [Portfolio](https://ahmed-nawar-portfolio.vercel.app/) | Modern portfolio using Next.js, TypeScript, Tailwind CSS |
+| [Room Monitor Dashboard](https://room-monitor-dashboard.vercel.app) | Room Monitor Dashboard — a clean, responsive dashboard built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI. |
 | [Clothing App](https://sprightly-cupcake-71cf4a.netlify.app/) | E-commerce React app with SEO & routing |
+| [Doctor App](https://doctor-website-five.vercel.app/) | A responsive React app for browsing doctors and managing appointments with filtering and localStorage support. |
 | [Cloud Dashboard](https://github.com/AhmedNawar2003/Next-Js---tailwind-Css) | Hosting dashboard with secure auth and billing |
 | [Vegist](https://legendary-croissant-a89b71.netlify.app/) | Food delivery platform built with JS & Bootstrap |
 | [Fitmeal](https://wonderful-quokka-68596a.netlify.app/) | Meal planning app for fitness enthusiasts |
