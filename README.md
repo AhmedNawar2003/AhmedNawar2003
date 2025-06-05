@@ -11,9 +11,9 @@ I'm a creative and detail-oriented front-end developer from Egypt, passionate ab
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### **Languages & Frameworks**
+### *Languages & Frameworks*
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,21 +25,40 @@ I'm a creative and detail-oriented front-end developer from Egypt, passionate ab
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-### **Libraries & Tools**
+### *Libraries & Tools*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shadcn--UI-111827?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer--Motion-EF017C?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AOS-AnimatedOnScroll-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
-### **Version Control & Deployment**
+### *State Management*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Context-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+### *APIs & Back-End*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EmailJS-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### *Version Control & Deployment*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
@@ -50,9 +69,10 @@ I'm a creative and detail-oriented front-end developer from Egypt, passionate ab
 | Project | Description |
 |--------|-------------|
 | [Portfolio](https://ahmed-nawar-portfolio.vercel.app/) | Modern portfolio using Next.js, TypeScript, Tailwind CSS |
-| [Room Monitor Dashboard](https://room-monitor-dashboard.vercel.app) | Room Monitor Dashboard — a clean, responsive dashboard built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI. |
+| [QuickPlue](https://quick-plue.vercel.app/) | QuickPlue – a modern and responsive task management app! |
+| [Room Monitor Dashboard](https://room-monitor-dashboard.vercel.app) | Room Monitor Dashboard — a clean, responsive dashboard built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI |
 | [Clothing App](https://sprightly-cupcake-71cf4a.netlify.app/) | E-commerce React app with SEO & routing |
-| [Doctor App](https://doctor-website-five.vercel.app/) | A responsive React app for browsing doctors and managing appointments with filtering and localStorage support. |
+| [Doctor App](https://doctor-website-five.vercel.app/) | Responsive app to browse doctors and manage appointments |
 | [Cloud Dashboard](https://github.com/AhmedNawar2003/Next-Js---tailwind-Css) | Hosting dashboard with secure auth and billing |
 | [Vegist](https://legendary-croissant-a89b71.netlify.app/) | Food delivery platform built with JS & Bootstrap |
 | [Fitmeal](https://wonderful-quokka-68596a.netlify.app/) | Meal planning app for fitness enthusiasts |
@@ -60,13 +80,13 @@ I'm a creative and detail-oriented front-end developer from Egypt, passionate ab
 | [Burger App](https://verdant-queijadas-4610c7.netlify.app/) | Restaurant site with responsive UI |
 | [KinderGarten](https://calm-sunshine-fd8918.netlify.app/) | Informational site for kindergartens |
 | [Nooni App](https://elaborate-puffpuff-a536a7.netlify.app/) | Product showcase web page |
-| [JS Projects](https://github.com/AhmedNawar2003/javascript-projects) | Small and useful JavaScript mini tools |
+| [JS Projects](https://github.com/AhmedNawar2003/javascript-projects) | JavaScript mini tools for learning & utility |
 
 ---
 
 ## 🎓 Education
 
-**Faculty of Computers and Information**  
+*Faculty of Computers and Information*  
 Menofia University — Class of 2025 — GPA: 3.45
 
 ---
@@ -81,9 +101,9 @@ Menofia University — Class of 2025 — GPA: 3.45
 
 ## 📫 Let's Connect
 
-- **Email:** [nawarahmed652@gmail.com](mailto:nawarahmed652@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ahmed-nawar-246513243](https://www.linkedin.com/in/ahmed-nawar-246513243)  
-- **GitHub:** [github.com/AhmedNawar2003](https://github.com/AhmedNawar2003)
+- 📧 *Email:* [nawarahmed652@gmail.com](mailto:nawarahmed652@gmail.com)
+- 💼 *LinkedIn:* [linkedin.com/in/ahmed-nawar-246513243](https://www.linkedin.com/in/ahmed-nawar-246513243)
+- 🖥 *Portfolio:* [ahmed-nawar-portfolio.vercel.app](https://ahmed-nawar-portfolio.vercel.app)
 
 ---
 
