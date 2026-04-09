@@ -192,9 +192,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedNawar2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8dadc"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNawar2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8dadc"/>
-
+<div align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=AhmedNawar2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a8dadc" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmedNawar2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8dadc" />
+</div>
 <img width="70%" src="https://streak-stats.demolab.com/?user=AhmedNawar2003&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=a8dadc&dates=a8dadc"/>
 
 </div>
@@ -220,11 +221,11 @@
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 📧 Email | [nawarahmed652@gmail.com](mailto:nawarahmed652@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/ahmed-nawar-246513243](https://www.linkedin.com/in/ahmed-nawar-246513243) |
-| 💻 GitHub | [github.com/AhmedNawar2003](https://github.com/AhmedNawar2003) |
+**Ahmed Nawar** — Backend Engineer · Java & Spring Boot Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Nawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nawar-246513243)
+[![GitHub](https://img.shields.io/badge/GitHub-AhmedNawar2003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedNawar2003)
+[![Email](https://img.shields.io/badge/Email-nawarahmed652%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawarahmed652@gmail.com)
 
 <br/>
 
