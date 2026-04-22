@@ -166,7 +166,7 @@ Specialized in microservices architecture, event-driven systems, API security, a
 ---
 
 ## 🎟 Event Booking Microservices Platform
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/AhmedNawar2003/FreelanceHub_Platform)
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/AhmedNawar2003/Event-Booking-Microservices-Platform)
 > A scalable event booking and reservation ecosystem designed with distributed architecture principles and production-level observability.
 
 ### 🔥 Key Highlights
@@ -225,33 +225,6 @@ Specialized in microservices architecture, event-driven systems, API security, a
 ---
 
 
-## 🎟 SmartEvent Platform — Event-Driven Microservices System
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/AhmedNawar2003/Event-Booking-Microservices-Platform)
-> A distributed event booking and ticket management platform built using modern microservices architecture.
-
-### Highlights
-
-- Microservices with independent databases
-- Event-driven communication using Kafka
-- Secure API Gateway architecture
-- Distributed tracing with Zipkin
-- OpenFeign service-to-service communication
-
-### Services
-
-| Service | Responsibility |
-|---|---|
-| Auth Service | Authentication & authorization |
-| Event Service | Event management |
-| Booking Service | Ticket reservations |
-| Payment Service | Payment processing |
-| Notification Service | Async notifications |
-
-### Tech
-
-`Spring Boot` · `Kafka` · `Docker` · `PostgreSQL` · `JWT` · `OpenFeign`
-
----
 
 # 📊 GitHub Analytics
 
